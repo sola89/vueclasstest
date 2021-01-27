@@ -7,7 +7,6 @@
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
 import Post from '@/components/Post.vue'
-import axios from 'axios';
 
 @Component({
     components: {
